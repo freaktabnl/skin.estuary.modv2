@@ -2476,15 +2476,13 @@ msgstr "Bewegende posters toegevoegd"
 
 msgctxt "#31598"
 msgid "Local Path to animated Poster Folder"
-msgstr "In welke map staan de bewegende posters"
+msgstr "pad naar map bewegende posters"
 
 msgctxt "#31599"
-msgid ""
-"The folder of the animated Poster Collection was not defined yet. Define a "
+msgid "The folder of the animated Poster Collection was not defined yet. Define a "
 "Folder on the local File System containing animated Posters within the Skin "
 "Settings."
-msgstr ""
-"Folder voor bewegende posters nog niet aangemaakt. Deze dus aanmaken waar de "
+msgstr "Folder voor bewegende posters nog niet aangemaakt. Deze dus aanmaken waar de "
 "posters in zitten."
 
 msgctxt "#31600"
@@ -2620,7 +2618,7 @@ msgstr "Gebruik simpele zoekactie bij hoofdstuk en op tijd zoeken"
 
 msgctxt "#31631"
 msgid "Action on 'last channel switch' OSD Button"
-msgstr ""
+msgstr "Aanzetten 'laatste kanaal wissel' OSD knop"
 
 msgctxt "#31632"
 msgid "Switch to last Channel directly"
